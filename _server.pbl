@@ -1,0 +1,15 @@
+title="AMLA Teachers"
+type="mod_mp"
+icon="icons/scroll_red.png"
+version="0.1.0"
+author="dragonfi"
+description="Adds a Teacher option for AMLA units. The Teacher redistributes it's own XP to units around it at every turn.
+This makes using AMLA units less wasteful, while still providing some interesting decision in positioning units.
+
+Might break campaigns, scenarios and other modifications that depend on AMLA. Simply not choosing Teacher as an advancement could solve the issue in most cases.
+
+Based heavily on Garak's ability in UtBS and the LotI custom advancements mod."
+forum_auth=true
+[feedback]
+    topic_id=59371
+[/feedback]
