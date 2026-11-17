@@ -10,6 +10,7 @@ Might break campaigns, scenarios and other modifications that depend on AMLA. Si
 
 Based heavily on Garak's ability in UtBS and the LotI custom advancements mod."
 forum_auth=true
+primary_authors="dragonfi"
 [feedback]
     topic_id=59371
 [/feedback]
